@@ -9,8 +9,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Song's Blog`,
-  description: `A statically generated blog using Next.js and Markdown.`,
+  title: `三保小学校PTA`,
+  description: `Welcome to the official website of the 三保小学校PTA.`,
   openGraph: {
     images: '',
   },

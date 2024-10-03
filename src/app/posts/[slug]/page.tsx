@@ -46,7 +46,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Song's Blog`;
+  const title = `${post.title} | 三保小学校PTA`;
 
   return {
     title,
